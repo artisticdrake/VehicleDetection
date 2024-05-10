@@ -9,5 +9,7 @@ Install required dependencies using
 Run the code in a Virtal Environment in Anaconda Terminal.
 
 
-By: Preetham Prathipati
-Contact: prathipatipreetham@gmail.com
+Regards,
+*Preetham Prathipati*
+
+*Contact: prathipatipreetham@gmail.com*
